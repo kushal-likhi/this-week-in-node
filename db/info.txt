@@ -1,0 +1,3 @@
+this folder will contain sqlLite dbs.
+DO NOT delete this folder.
+This folder content is not committed on the repository.
