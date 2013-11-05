@@ -5,7 +5,7 @@ echo $USER
 @author Kushal Likhi
 echo "**************************************************************"
 
-. ../credentials
+. credentials
 
 out_file="`pwd`/node.out";
 pid_file="`pwd`/APP_PID"
